@@ -39,7 +39,7 @@ public class GuideActivity extends FragmentActivity {
 
         //初始化点点点控件
         ViewGroup group = (ViewGroup) findViewById(R.id.viewGroup);
-        tips = new ImageView[3];
+        tips = new ImageView[4];
         for (int i = 0; i < tips.length; i++) {
             ImageView imageView = new ImageView(this);
             imageView.setLayoutParams(new ViewGroup.LayoutParams(10, 10));
