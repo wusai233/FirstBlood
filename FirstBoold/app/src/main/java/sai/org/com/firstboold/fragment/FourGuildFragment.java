@@ -14,8 +14,9 @@ import android.view.animation.DecelerateInterpolator;
 import android.view.animation.ScaleAnimation;
 import android.widget.ImageView;
 
-import sai.org.com.firstboold.MainActivity;
+import sai.org.com.firstboold.activitys.MainActivity;
 import sai.org.com.firstboold.R;
+import sai.org.com.firstboold.base.GuideBaseFragment;
 
 /**
  * Created by wujamie on 16/12/27.

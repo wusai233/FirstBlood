@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 import java.util.List;
 
-import sai.org.com.firstboold.fragment.GuideBaseFragment;
+import sai.org.com.firstboold.base.GuideBaseFragment;
 
 /**
  * Created by wujamie on 16/12/27.

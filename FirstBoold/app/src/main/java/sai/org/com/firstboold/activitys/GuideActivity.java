@@ -1,4 +1,4 @@
-package sai.org.com.firstboold;
+package sai.org.com.firstboold.activitys;
 
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -12,10 +12,11 @@ import android.widget.LinearLayout;
 import java.util.ArrayList;
 import java.util.List;
 
+import sai.org.com.firstboold.R;
 import sai.org.com.firstboold.adapter.GuideFragmentAdapter;
 import sai.org.com.firstboold.fragment.FirstGuildFragment;
 import sai.org.com.firstboold.fragment.FourGuildFragment;
-import sai.org.com.firstboold.fragment.GuideBaseFragment;
+import sai.org.com.firstboold.base.GuideBaseFragment;
 import sai.org.com.firstboold.fragment.SecondGuildFragment;
 import sai.org.com.firstboold.fragment.ThirdGuildFragment;
 import sai.org.com.firstboold.widgets.GuidViewPager;

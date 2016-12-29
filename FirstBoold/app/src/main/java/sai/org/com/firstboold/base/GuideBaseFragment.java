@@ -1,4 +1,4 @@
-package sai.org.com.firstboold.fragment;
+package sai.org.com.firstboold.base;
 
 import android.support.v4.app.Fragment;
 
